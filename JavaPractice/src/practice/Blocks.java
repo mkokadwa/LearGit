@@ -14,7 +14,6 @@ public class Blocks {
 	}
 	
 	{
-
 		System.out.println("Inside Non Static block....");
 	}
 	
